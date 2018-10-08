@@ -160,7 +160,7 @@ In this case, the first node visited is at the bottom of the tree and moves up t
 {% sample lang="go" %}
 [import:24-38, lang:"golang"](code/golang/treetraversal.go)
 {% sample lang="emojic" %}
-[import:45-60, lang:"emojicode"](code/emojicode/tree_traversal.emojic)
+[import:45-62, lang:"emojicode"](code/emojicode/tree_traversal.emojic)
 {% endmethod %}
 
 <p>
@@ -211,7 +211,7 @@ In code, it looks like this:
 {% sample lang="go" %}
 [import:40-49, lang:"golang"](code/golang/treetraversal.go)
 {% sample lang="emojic" %}
-[import:62-77, lang:"emojicode"](code/emojicode/tree_traversal.emojic)
+[import:64-79, lang:"emojicode"](code/emojicode/tree_traversal.emojic)
 {% endmethod %}
 
 All this said, there are a few details about DFS that might not be idea, depending on the situation. For example, if we use DFS on an incredibly long tree, we will spend a lot of time going further and further down a single branch without searching the rest of the data structure. In addition, it is not the natural way humans would order a tree if asked to number all the nodes from top to bottom. I would argue a more natural traversal order would look something like this:
@@ -254,7 +254,7 @@ And this is exactly what Breadth-First Search (BFS) does! On top of that, it can
 {% sample lang="go" %}
 [import:51-60, lang:"golang"](code/golang/treetraversal.go)
 {% sample lang="emojic" %}
-[import:79-94, lang:"emojicode"](code/emojicode/tree_traversal.emojic)
+[import:81-96, lang:"emojicode"](code/emojicode/tree_traversal.emojic)
 {% endmethod %}
 
 ## Example Code

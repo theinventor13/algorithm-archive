@@ -24,7 +24,7 @@
     ↩️ children
   🍉
 
-  💭 Depth-First Search Recursive pre-order
+  📗 Depth-First Search Recursive pre-order 📗
   ❗️ 🌀 🍇
     😀 🔡 id 10❗️❗️
 
@@ -33,7 +33,7 @@
     🍉
   🍉
 
-  💭 Depth-First Search Recursive post-order
+  📗 Depth-First Search Recursive post-order 📗
   ❗️ 🍥 🍇
     🔂 child children 🍇
       🍥 child❗️
@@ -42,8 +42,10 @@
     😀 🔡 id 10❗️❗️
   🍉
 
-  💭 Depth-First Search Recursive Inorder Binary
-  💭 This assumes only 2 children.
+  📗
+    Depth-First Search Recursive Inorder Binary
+    This assumes only 2 children.
+  📗
   ❗️ 🍭 🍇
     ↪️ 🐔 children❗️ ▶️ 2 🍇
       ↩️↩️
@@ -59,7 +61,7 @@
     🍉
   🍉
 
-  💭 Depth-First Search Stack
+  📗 Depth-First Search Stack 📗
   ❗️ 🥞 🍇
     🍨 🐕 🍆 ➡️ stack
 
@@ -76,7 +78,7 @@
     🍉
   🍉
 
-  💭 Breadth-First Search Queue
+  📗 Breadth-First Search Queue 📗
   ❗️ 🏢 🍇
     🍨 🐕 🍆 ➡️ queue
 
