@@ -6,22 +6,14 @@
     1 ➡️ 🖍id
     🍨🍆 ➡️ 🖍children
 
-    ↪️ ❎ depth_count ◀️🙌 1❗️ 🍇
-      🔂 i 🆕⏩⏩ 0 children_count❗️ 🍇
-        🐻 children 🆕🌲⭐️ 🤜id ✖️ 10 ➕ i ➕ 1🤛 🤜depth_count ➖ 1🤛 children_count❗️❗️
-      🍉
-    🍉
+    🌌🐕 depth_count children_count❗️
   🍉
 
   🔐 🆕 ⭐️ given_id 🔢 depth_count 🔢 children_count 🔢 🍇
     given_id ➡️ 🖍id
     🍨🍆 ➡️ 🖍children
 
-    ↪️ ❎ depth_count ◀️🙌 1❗️ 🍇
-      🔂 i 🆕⏩⏩ 0 children_count❗️ 🍇
-        🐻 children 🆕🌲⭐️ 🤜id ✖️ 10 ➕ i ➕ 1🤛 🤜depth_count ➖ 1🤛 children_count❗️❗️
-      🍉
-    🍉
+    🌌🐕 depth_count children_count❗️
   🍉
 
   ❗️ 🆔 ➡️ 🔢 🍇
@@ -97,6 +89,14 @@
       🧒 temp❗️ ➡️ temp_children
       🔂 child temp_children 🍇
         🐻 queue child❗️
+      🍉
+    🍉
+  🍉
+
+  🔐 ❗️ 🌌 depth_count 🔢 children_count 🔢 🍇
+    ↪️ ❎ depth_count ◀️🙌 1❗️ 🍇
+      🔂 i 🆕⏩⏩ 0 children_count❗️ 🍇
+        🐻 children 🆕🌲⭐️ 🤜id ✖️ 10 ➕ i ➕ 1🤛 🤜depth_count ➖ 1🤛 children_count❗️❗️
       🍉
     🍉
   🍉
