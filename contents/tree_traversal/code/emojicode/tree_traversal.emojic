@@ -1,3 +1,14 @@
+🦃 ⏹ 🍇
+  🔘 ⏫
+
+  ❗️ 🔡 ➡️ 🔡 🍇
+    ↪️ 🐕 🙌 🆕⏹⏫❗️ 🍇
+      ↩️ 🔤The given tree is not binary!🔤
+    🍉
+    ↩️ 🔤🔤
+  🍉
+🍉
+
 🐇 🌲 🍇
   🖍🆕 id 🔢
   🖍🆕 children 🍨🐚🌲🍆
@@ -46,9 +57,9 @@
     Depth-First Search Recursive Inorder Binary
     This assumes only 2 children.
   📗
-  ❗️ 🍭 🍇
+  ❗️ 🍭 ➡️ 🍬⏹ 🍇
     ↪️ 🐔 children❗️ ▶️ 2 🍇
-      ↩️↩️
+      ↩️ 🆕⏹⏫❗️
     🍉
 
     ↪️ 🐔 children❗️ ▶️ 0 🍇
@@ -59,6 +70,7 @@
     🙅 🍇
       😀 🔡 id 10❗️❗️
     🍉
+    ↩️ 🤷‍♀️
   🍉
 
   📗 Depth-First Search Stack 📗
@@ -116,7 +128,16 @@
   😀 🔤🏢  - Breadth-First Search Queue🔤❗️
   🏢tree❗️
 
+  😀 🔤🍭  - Depth-First Search Recursive Inorder Binary - Error🔤❗️
+  💭 Calling the Depth-First Search Recursive Inorder Binary method here does
+  💭 result in an error, since "tree" is not a binary tree.
+  ️↪️ 🍭tree❗️ ➡️ return 🍇
+    😀 🔡return❗❗️️
+  🍉
+
   🆕🌲🆕 3 2❗️ ➡️ binary_tree
   😀 🔤🍭  - Depth-First Search Recursive Inorder Binary🔤❗️
-  🍭binary_tree❗️
+  ️↪️ 🍭binary_tree❗️ ➡️ return 🍇
+    😀 🔡return❗❗️️
+  🍉
 🍉
