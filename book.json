@@ -52,6 +52,10 @@
           "lang": "c",
           "name": "C"
         },
+		{
+          "lang": "c8",
+          "name": "Chip-8"
+        },
         {
           "lang": "py",
           "name": "Python"
